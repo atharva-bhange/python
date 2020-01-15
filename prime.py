@@ -20,4 +20,3 @@ while count<=range:
         primes.append(count)
     count = count +1
 print(primes)
-# just Testing repository push
