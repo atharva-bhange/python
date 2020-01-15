@@ -19,10 +19,11 @@ for t in range(2,num):
                 break
     if (cal == t ):
         pnumbers.append(t)
+    cal = 1
 print(pnumbers)
 
 '''
 Response
 Enter the number:- 9999
-[9, 82, 7899]
+[6, 28, 496, 8128]
 '''
