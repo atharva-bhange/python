@@ -20,3 +20,9 @@ for t in range(2,num):
     if (cal == t ):
         pnumbers.append(t)
 print(pnumbers)
+
+'''
+Response
+Enter the number:- 9999
+[9, 82, 7899]
+'''
