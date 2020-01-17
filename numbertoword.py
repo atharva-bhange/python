@@ -10,4 +10,3 @@ num = list(input("type the number:- "))
 for t in num:
     str = str+" "+convert[t]
 print(str)
-# changes
