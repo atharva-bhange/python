@@ -24,14 +24,15 @@ while True:
         break
     else:
         print("Type a number or 'done' to view results.")
-loopcounter =0
+loopcounterout =0
+loopcounterin =0
 min = None # storing index not actual value
 print(nums)
 print("")
 for shifter in range(0,len(nums)):
-    loopcounter += 1
+    loopcounterout += 1
     for checker in range(shifter , len(nums)):
-        loopcounter += 1
+        loopcounterin += 1
         if min == None:
             min = checker
         if nums[checker]<nums[min]:
@@ -41,4 +42,5 @@ for shifter in range(0,len(nums)):
     nums[min] = temp
     min = None
 print(nums)
-print(loopcounter)
+print("Inner loop ",loopcounterin)
+print("Outer loop ",loopcounterout)
