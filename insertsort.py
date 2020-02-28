@@ -28,15 +28,20 @@ print(nums)
 print("")
 loopcounterout = 0
 loopcounterin = 0
+
+
+# main algorithm
 for index in range(len(nums)):
     loopcounterout +=1
     sample = index
-    for t in range(index-1,-1,-1):
+    t= sample - 1
+    while t>0:
         loopcounterin += 1
         if nums[t] > nums[sample]:
             temp = nums[t]
             nums[t] = nums[sample]
             nums[sample] = temp
             sample -= 1
+        t -= 1
 print(nums)
 print(loopcounterin+loopcounterout , 'loops were required for insertion sort.')
