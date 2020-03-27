@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bec33aaa-98ca-4f1d-93c8-e07a9df6a981" name="Default Changelist" comment="" />
+    <list default="true" id="bec33aaa-98ca-4f1d-93c8-e07a9df6a981" name="Default Changelist" comment="shreyas trial file">
+      <change beforePath="$PROJECT_DIR$/../Python-public-/.idea/Python-public-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-public-/.idea/Python-public-.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-public-/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-public-/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python-public-/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python-public-/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +14,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="atharva-bhange" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="python" />
   </component>
   <component name="ProjectId" id="1ZCe405PgI7uGfTGeE1PVs5tjtr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Coding/Python Atom" />
   </component>
   <component name="RunManager">
     <configuration name="evendigits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -63,16 +73,51 @@
       <updated>1584347311335</updated>
       <workItem from="1584347338907" duration="466000" />
     </task>
+    <task id="LOCAL-00001" summary="shreyas trial file">
+      <created>1585318457328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585318457328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="shreyas trial file" />
+    <option name="LAST_COMMIT_MESSAGE" value="shreyas trial file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584347541052">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584347541052" />
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1585318756675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585318756675" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585318943025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585318943025" />
+    <state x="551" y="279" key="Github.CreatePullRequestDialog" timestamp="1585318637083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="279" key="Github.CreatePullRequestDialog/0.0.1536.824@0.0.1536.824" timestamp="1585318637083" />
     <state width="1322" height="243" key="GridCell.Tab.0.bottom" timestamp="1584347826960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -105,6 +150,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="243" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584347826960" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1585318469811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585318469811" />
     <state x="439" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1585318427082">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
